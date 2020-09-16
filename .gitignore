@@ -1,2 +1,6 @@
 **/.ipynb_checkpoints
-**/tuto_arcade
+**/tuto_arcade/*.py
+**/tuto_arcade/*.zip
+**/tuto_arcade/.*
+**/tuto_arcade/sounds
+**/tuto_arcade/sounds/*
