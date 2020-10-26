@@ -4,3 +4,4 @@
 **/tuto_arcade/.*
 **/tuto_arcade/sounds
 **/tuto_arcade/sounds/*
+**/__pycache__
