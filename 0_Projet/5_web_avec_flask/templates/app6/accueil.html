@@ -1,0 +1,10 @@
+{% for _, login, cree_le, titre, contenu in articles %}
+    <article>
+      <h3 style="margin-bottom: 0">{{ titre }}</h3>
+      <p style="margin-top: 0; font-size: 80%">
+      crée le {{ cree_le }} par <em>{{ login }}</em>
+      </p>
+      <p style="padding-left: 20px">{{ contenu }}</p>
+      <hr/>
+    </article>
+{% endfor %}
